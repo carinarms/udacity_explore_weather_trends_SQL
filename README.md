@@ -11,5 +11,7 @@ The final submission is a PDF that includes:
 - What tools did you use for each step? (Python, SQL, Excel, etc)
 - How did you calculate the moving average?
 - What were your key considerations when deciding how to visualize the trends?
+
 2. Line chart with local and global temperature trends
+
 3. At least four observations about the similarities and/or differences in the trends
